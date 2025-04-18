@@ -8,9 +8,9 @@
 
 ---
 
-Je suis **[Votre Nom]**, étudiant·e en **Mathématiques**, passionné·e par :
-- 🔐 **La cybersécurité** : veilles, pentesting, hardening  
-- 📊 **La data science** : analyses de données, machine learning  
+Je suis **Fara KA**, étudiant·e en **Mathématiques Physique et Informatique**, passionné par :
+- 🔐 **La cybersécurité** : pentesting 
+- 📊 **La data science** : analyses de données, machine learning...  
 - 💻 **Autodidacte** : apprentissage principalement via Google et YouTube  
 - 🌱 J’apprends aussi : JavaScript, Java...  
 - ⚡ Fun fact : j’adore créer des bots Telegram !  
