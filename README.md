@@ -8,7 +8,7 @@
 
 ---
 
-Je suis **Fara KA**, étudiant·e en **Mathématiques Physique et Informatique**, passionné par :
+Je suis **Fara KA**, étudiant en **Mathématiques Physique et Informatique**, passionné par :
 - 🔐 **La cybersécurité** : pentesting 
 - 📊 **La data science** : analyses de données, machine learning...  
 - 💻 **Autodidacte** : apprentissage principalement via Google et YouTube  
