@@ -1,4 +1,4 @@
-![Moi en train de coder](sine.jpg)
+![Moi en train de coder](sin.png)
 
 ---
 
