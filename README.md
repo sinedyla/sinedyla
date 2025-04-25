@@ -1,16 +1,46 @@
-## Hi there 👋
+![Moi en train de coder](sine.jpg)
 
-<!--
-**sinedyla/sinedyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Compteur de visiteurs</strong><br>
+  <img src="https://profile-counter.glitch.me/sinedyla/count.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Passionné par :
+- 🔐 **La cybersécurité**
+- 📊 **La data science** : analyses de données, machine learning
+- 💻 **Autodidacte**
+- 🌱 **J’apprends aussi :** JavaScript, Java,... 
+---
+ 
+⚡ **Fun fact :** 
+> J'apprends l'anglais comme je programme : parfois ça compile, parfois ça plante, mais je persévère !
+
+
+> [!WARNING]
+> Quelqu’un qui travaille dur en tire des avantages.
+> Mais celui qui se contente de parler sera toujours pauvre
+> 
+> ― ***Proverbes 14:23***
+
+---
+
+<div align="center">
+  <a href="https://github.com/sinedyla/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sinedyla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" width="49%" />
+  </a>
+  <a href="https://github.com/sinedyla/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinedyla&layout=compact&theme=buefy&hide_border=true" width="49%" />
+  </a>
+</div>
+
+---
+
+## 📫 Contact
+
+- **Email :** sinedyla@gmail.com  
+- **LinkedIn :** [@sinedyla](https://www.linkedin.com/in/sinedyla)
+- **Instagram :** [@sinedyla](https://instagram.com/sinedylaa)
