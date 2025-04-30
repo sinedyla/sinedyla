@@ -12,8 +12,10 @@
 Passionné par :
 - 🔐 **La cybersécurité**
 - 📊 **La data science** : analyses de données, machine learning
-- 💻 **Autodidacte**
-- 🌱 **J’apprends aussi :** JavaScript, Java,... 
+
+💻 **Autodidacte**
+🌱 **J’apprends aussi :** JavaScript, Java,... 
+
 ---
  
 ⚡ **Fun fact :** 
