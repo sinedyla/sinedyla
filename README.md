@@ -1,4 +1,4 @@
-![Moi en train de coder](sin.png)
+![Mon couverture](sin.png)
 
 ---
 
