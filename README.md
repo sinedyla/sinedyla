@@ -30,10 +30,7 @@ Passionné par :
 
 <div align="center">
   <a href="https://github.com/sinedyla/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sinedyla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/sinedyla/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinedyla&layout=compact&theme=buefy&hide_border=true" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sinedyla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
   </a>
 </div>
 
