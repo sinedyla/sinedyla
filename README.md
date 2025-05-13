@@ -18,7 +18,18 @@ Passionné par :
  
 ⚡ **Fun fact :** 
 > J'apprends l'anglais comme je programme : parfois ça compile, parfois ça plante, mais je persévère !
+---
 
+<h3 align="left">En cours d'apprentissage :</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
+
+---
 
 > [!WARNING]
 > Quelqu’un qui travaille dur en tire des avantages.
