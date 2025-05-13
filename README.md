@@ -47,8 +47,24 @@ Passionné par :
 
 ---
 
-## 📫 Contact
+## Contact :
 
-- **Email :** sinedyla@gmail.com  
-- **LinkedIn :** [@sinedyla](https://www.linkedin.com/in/sinedyla)
-- **Instagram :** [@sinedyla](https://instagram.com/sinedylaa)
+<p align="left">
+  <a href="mailto:sinedyla@gmail.com" target="blank">
+    <img style="filter: invert(1);" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sinedyla" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/sinedyla" target="blank">
+    <img style="filter: invert(1);" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sinedyla" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/sinedyla" target="blank">
+    <img style="filter: invert(1);" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sinedyla" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/sinedyla" target="blank">
+    <img style="filter: invert(1);" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sinedyla" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@sinedyla" target="blank">
+    <img style="filter: invert(1);" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sinedyla" height="30" width="40" />
+  </a>
+</p>
+
+---
