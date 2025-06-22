@@ -20,14 +20,75 @@ Passionné par :
 > J'apprends l'anglais comme je programme : parfois ça compile, parfois ça plante, mais je persévère !
 ---
 
-<h3 align="left">En cours d'apprentissage :</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+<h3 align="left">Mes outils et technologies préférés :</h3>
+
+<div style="display: flex; justify-content: center;">
+  <table style="text-align: center;">
+    <tr>
+      <td width="96">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        </a>
+        <br>Python
+      </td>
+      <td width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+        <br>C#
+      </td>
+      <td width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+      </td>
+    </tr>
+    <tr>
+      <td width="96">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        </a>
+        <br>Java
+      </td>
+      <td width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <br>CSS
+      </td>
+    </tr>
+    <tr>
+      <td width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        <br>PHP
+      </td>
+      <td width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+        <br>VSCode
+      </td>
+      <!-- Cases vides pour équilibrer la ligne -->
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -39,11 +100,11 @@ Passionné par :
 
 ---
 
-<div align="center">
-  <a href="https://github.com/sinedyla/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sinedyla&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" />
-  </a>
-</div>
+<p align="center">
+<a href="https://wakatime.com/@Goblin8888">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinedyla&theme=gruvbox&hide_border=true&hide_title=false&area=true&custom_title=Graphique%20de%20contribution%20totale%20dans%20tous%20les%20d%C3%A9p%C3%B4ts" width="100%" alt="graphique d'activité">
+</a>
+</p>
 
 ---
 
